@@ -1,5 +1,5 @@
 # Hi everyone 👋
-#### I'm a passionate software developer from Russia, who loves open source. I mainly code in C/C++ and C#, but I am constantly learning new languages and technologies.
+### I'm a passionate software developer from Russia, who loves open source. I mainly code in C/C++ and C#, but I am constantly learning new languages and technologies.
 
 - 🌱 I’m currently learning **Rust, Python**
 - 💬 Ask me about **C/C++, C#**
@@ -19,8 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grandbrain&show_icons=true" alt="grandbrain" /></p>-->
 
 <p>
-<a href="https://linkedin.com/in/andrey-lomakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrey-lomakin" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12105416" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12105416" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/grandbrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="grandbrain" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/grandbrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="grandbrain" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/andrey-lomakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrey-lomakin" height="30" width="30" /></a>
+    <a href="https://stackoverflow.com/users/12105416" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12105416" height="30" width="30" /></a>
+    <a href="https://www.hackerrank.com/grandbrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="grandbrain" height="30" width="30" /></a>
+    <a href="https://www.leetcode.com/grandbrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="grandbrain" height="30" width="30" /></a>
 </p>

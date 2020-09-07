@@ -5,7 +5,7 @@ I mainly code in C/C++ and C#, but I am constantly learning new languages and te
 
 - 🌱 I’m currently learning: **Rust, Python**
 - 💬 Ask me about: **C/C++, C#**
-- 📫 How to reach me: **contact@grandbrain.guru**
+- 📫 How to reach me: **<a href="tg.me/andlom>">Telegram</a>**
 
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>

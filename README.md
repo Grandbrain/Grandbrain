@@ -1,5 +1,6 @@
 # Hi everyone 👋
-### I'm a passionate software developer from Russia, who loves open source. I mainly code in C/C++ and C#, but I am constantly learning new languages and technologies.
+
+I'm a passionate software developer from Russia, who loves open source. I mainly code in C/C++ and C#, but I am constantly learning new languages and technologies.
 
 - 🌱 I’m currently learning **Rust, Python**
 - 💬 Ask me about **C/C++, C#**

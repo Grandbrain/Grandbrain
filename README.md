@@ -3,9 +3,9 @@
 I'm a passionate software developer from Russia, who loves open source. 
 I mainly code in C/C++ and C#, but I am constantly learning new languages and technologies.
 
-- 🌱 I’m currently learning: **Rust, Python**
+- 🌱 I’m currently learning: **Rust, Go, F#**
 - 💬 Ask me about: **C/C++, C#**
-- 📫 How to reach me: **<a href="mailto:contact@grandbrain.guru">E-mail</a>**
+- 📫 How to reach me: **<a href="mailto:contact@grandbrain.guru">E-mail</a>, <a href="https://discord.com/users/783297410180448306">Discord</a>**
 
 <p>
     <img src="Content/c-original.svg" alt="c" width="40" height="40"/>
